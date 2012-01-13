@@ -1,0 +1,2 @@
+You can check out Original Btrace source code by using Netbeans + Mecurial to build up your own Btrace : https://hg.kenai.com/hg/btrace~hg
+If you want use the methods in btrace_ext provided, just replace the 3 jars within btrace\build directory.
